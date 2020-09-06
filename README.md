@@ -10,3 +10,4 @@ They can be found here: https://github.com/AnonymousSportStacker/discord.js-v12-
 <br>
 <img height="500" src="https://cdn.discordapp.com/attachments/711326145106149456/711326259052806164/Bot_Tutorials_Logo.PNG"
 <br>
+[![Run on Repl.it](https://repl.it/badge/github/AnonymousSportStacker/discord.js-v12-bot-tutorial-episodes-10-and-on)](https://repl.it/github/AnonymousSportStacker/discord.js-v12-bot-tutorial-episodes-10-and-on)
